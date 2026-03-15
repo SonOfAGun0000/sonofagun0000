@@ -63,9 +63,8 @@ Git • VS Code • Figma • Canva
 
 ### Portfolio Website
 My personal developer portfolio.
-
-🔗 Live  
-https://sonofagun0000.github.io/sathishsekar.github.io/index.html
+ 
+<a href="https://sonofagun0000.github.io/sathishsekar.github.io/">🔗 Visit Live Portfolio </a>
 
 ---
 
