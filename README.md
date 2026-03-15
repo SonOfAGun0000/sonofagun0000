@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathish</h1>
-<h3 align="center">![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;UI+UX+Designer;Tech+Explorer)</h3>
-![](https://komarev.com/ghpvc/?username=sonofagun0000)
-https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;UI+UX+Designer;Tech+Explorer)
+![](https://komarev.com/ghpvc/?username=sonofagun0000&color=blue)
 
 <p align="center">
 <a href="https://sonofagun0000.github.io/sathishsekar.github.io/index.html">Portfolio</a> •
@@ -21,6 +20,8 @@ https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git
 ---
 
 ## 🧰 Tech Stack
+
+![Tech](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,vscode)
 
 ### Frontend
 HTML • CSS • JavaScript • React
