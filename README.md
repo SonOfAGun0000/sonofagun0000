@@ -27,6 +27,12 @@
 
 ---
 
+## 💡 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 ## 🧰 Tech Stack
 
 ![Tech](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,vscode)
@@ -64,6 +70,12 @@ Git • VS Code • Figma • Canva
 
 ---
 
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonofagun0000&theme=react-dark)
+
+---
+
 ## 📌 Featured Projects
 
 ### Portfolio Website
@@ -82,6 +94,16 @@ Excel automation project for vehicle tracking.
 Collection of design experiments and layouts.
 
 ---
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/sonofagun0000">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sonofagun0000&repo=portfolio&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/sonofagun0000">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sonofagun0000&repo=vehicle-management-system&theme=tokyonight"/>
+</a>
 
 ## 📫 Connect With Me
 
