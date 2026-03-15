@@ -47,9 +47,7 @@ Git • VS Code • Figma • Canva
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sonofagun0000&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonofagun0000&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sonofagun0000&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonofagun0000&layout=compact&theme=tokyonight)
 
 ---
 
