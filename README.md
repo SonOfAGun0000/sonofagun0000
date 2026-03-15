@@ -3,11 +3,11 @@
 </p>
 <h1 align="center">Hi 👋, I'm Sathish</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Tech+Explorer&center=true&width=500&height=40">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com" alt="sonofagun0000" />
+<img src="https://komarev.com/ghpvc/?username=sonofagun0000&color=blue&style=flat-square">
 </p>
 
 <p align="center">
