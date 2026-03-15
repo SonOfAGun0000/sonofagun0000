@@ -2,8 +2,13 @@
   <img src="./Sathishsekar Black Gold Github Banner.png" alt="My Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Sathish</h1>
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Tech+Explorer&center=true&width=500&height=40)
-![](https://komarev.com/ghpvc/?username=sonofagun0000&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="sonofagun0000" />
+</p>
 
 <p align="center">
 <a href="https://sonofagun0000.github.io/sathishsekar.github.io/">Portfolio</a> •
