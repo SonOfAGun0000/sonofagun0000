@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-<a href="https://sonofagun0000.github.io/sathishsekar.github.io/">Portfolio</a> •
-<a href="mailto:sathishsekar0000@gmail.com">Email</a>
+<a href="https://sonofagun0000.github.io/sathishsekar.github.io/"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> •
+<a href="mailto:sathishsekar0000@gmail.com"><img src="https://img.shields.io/badge/✉ Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -80,8 +80,8 @@ Collection of design experiments and layouts.
 
 ## 📫 Connect With Me
 
-<a href="https://sonofagun0000.github.io/sathishsekar.github.io/index.html" target="blank">Portfolio</a>
-<a href="https://www.linkedin.com/in/sathish-sekar-uiux/" target="blank" >LinkedIn</a>
-<a href="mailto:sathishsekar0000@gmail.com" target="blank">Email - sathishsekar0000@gmail.com</a>
-<a href="https://www.instagram.com/its_me_son_of_a_gun/" target="blank">Instagram</a>
+<a href="https://sonofagun0000.github.io/sathishsekar.github.io/index.html" target="blank">Portfolio</a><br>
+<a href="https://www.linkedin.com/in/sathish-sekar-uiux/" target="blank" >LinkedIn</a><br>
+<a href="mailto:sathishsekar0000@gmail.com" target="blank">Email - sathishsekar0000@gmail.com</a><br>
+<a href="https://www.instagram.com/its_me_son_of_a_gun/" target="blank">Instagram</a><br>
 
