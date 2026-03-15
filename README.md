@@ -80,6 +80,8 @@ Collection of design experiments and layouts.
 
 ## 📫 Connect With Me
 
-Portfolio  
-LinkedIn  
-Email
+<a href="https://sonofagun0000.github.io/sathishsekar.github.io/index.html" target="blank">Portfolio</a>
+<a href="https://www.linkedin.com/in/sathish-sekar-uiux/" target="blank" >LinkedIn</a>
+<a href="mailto:sathishsekar0000@gmail.com" target="blank">Email - sathishsekar0000@gmail.com</a>
+<a href="https://www.instagram.com/its_me_son_of_a_gun/" target="blank">Instagram</a>
+
