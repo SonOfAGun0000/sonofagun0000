@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://sonofagun0000.github.io/sathishsekar.github.io/"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=none Color=white"/></a> •
+<a href="https://sonofagun0000.github.io/sathishsekar.github.io/"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=none&logoColor=white"/></a> •
 <a href="mailto:sathishsekar0000@gmail.com"><img src="https://img.shields.io/badge/✉ Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
