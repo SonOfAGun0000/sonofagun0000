@@ -76,24 +76,6 @@ Git • VS Code • Figma • Canva
 
 ---
 
-## 📌 Featured Projects
-
-### Portfolio Website
-My personal developer portfolio.
- 
-<a href="https://sonofagun0000.github.io/sathishsekar.github.io/">🔗 Visit Live Portfolio </a>
-
----
-
-### Vehicle Management System
-Excel automation project for vehicle tracking.
-
----
-
-### UI/UX Design Projects
-Collection of design experiments and layouts.
-
----
 
 ## 🚀 Featured Projects
 
@@ -102,13 +84,31 @@ Collection of design experiments and layouts.
 </a>
 
 <a href="https://github.com/sonofagun0000">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sonofagun0000&repo=vehicle-management-system&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonofagun0000&repo=peaceofmindcbe&theme=transparent&border_radius=10"/>
+</a>
+
+<a href="https://github.com/sonofagun0000">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonofagun0000&repo=GST-Calculator&theme=transparent&border_radius=10"/>
+</a>
+
+<a href="https://github.com/sonofagun0000">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonofagun0000&repo=vstdco&theme=transparent&border_radius=10"/>
 </a>
 
 ## 📫 Connect With Me
 
-<a href="https://sonofagun0000.github.io/sathishsekar.github.io/index.html" target="blank">Portfolio</a><br>
-<a href="https://www.linkedin.com/in/sathish-sekar-uiux/" target="blank" >LinkedIn</a><br>
-<a href="mailto:sathishsekar0000@gmail.com" target="blank">Email - sathishsekar0000@gmail.com</a><br>
-<a href="https://www.instagram.com/its_me_son_of_a_gun/" target="blank">Instagram</a><br>
+<p align="center">
 
+<a href="https://sonofagun0000.github.io/sathishsekar.github.io/index.html"  target="blank">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome">
+</a><br>
+
+<a href="https://www.linkedin.com/in/sathish-sekar-uiux/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
+</a><br>
+
+<a href="mailto:sathishsekar0000@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
+</a><br>
+
+</p>
