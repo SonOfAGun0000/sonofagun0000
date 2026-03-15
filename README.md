@@ -98,7 +98,7 @@ Collection of design experiments and layouts.
 ## 🚀 Featured Projects
 
 <a href="https://github.com/sonofagun0000">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sonofagun0000&repo=portfolio&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonofagun0000&repo=sathishsekar.github.io&theme=transparent&border_radius=10"/>
 </a>
 
 <a href="https://github.com/sonofagun0000">
