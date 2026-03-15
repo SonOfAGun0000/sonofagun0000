@@ -52,6 +52,11 @@ Git • VS Code • Figma • Canva
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonofagun0000&layout=compact&theme=tokyonight)
 
 ---
+## 🐍 Contribution Snake
+
+![snake](https://github.com/sonofagun0000/sonofagun0000/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🔥 Contribution Streak
 
