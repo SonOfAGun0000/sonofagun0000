@@ -2,11 +2,11 @@
   <img src="./Sathishsekar Black Gold Github Banner.png" alt="My Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Sathish</h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Tech+Explorer&center=true&width=500&height=40)
-![](https://komarev.com/ghpvc/?username=sonofagun0000&color=blue)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Tech+Explorer&center=true&width=500&height=40)
+![](https://komarev.com/ghpvc/?username=sonofagun0000&color=blue&style=flat-square)
 
 <p align="center">
-<a href="https://sonofagun0000.github.io/sathishsekar.github.io/index.html">Portfolio</a> •
+<a href="https://sonofagun0000.github.io/sathishsekar.github.io/">Portfolio</a> •
 <a href="mailto:sathishsekar0000@gmail.com">Email</a>
 </p>
 
