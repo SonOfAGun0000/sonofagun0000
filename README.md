@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathish</h1>
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;UI+UX+Designer;Tech+Explorer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;UI%2FUX+Designer;Tech+Explorer&center=true&width=500&height=40)
+
 ![](https://komarev.com/ghpvc/?username=sonofagun0000&color=blue)
 
 <p align="center">
