@@ -60,7 +60,7 @@ Git • VS Code • Figma • Canva
 ---
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/sonofagun0000/sonofagun0000/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sonofagun0000/sonofagun0000/output/github-contribution-grid-snake.svg)
 
 ---
 
